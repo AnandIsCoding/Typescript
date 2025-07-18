@@ -1,0 +1,1 @@
+console.log('Comp 2')
