@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/components/comp1.ts"],"version":"5.8.3"}
+{"root":["./src/index.ts","./src/components/function.ts","./src/components/oops.ts","./src/components/enum.ts","./src/components/interface.ts","./src/components/types.ts"],"version":"5.8.3"}
